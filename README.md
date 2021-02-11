@@ -6,6 +6,10 @@ Code along based on [Multi Step Form With React & Material UI](https://www.youtu
 - This app demonstrates how to create a multi part form using react state.
 - Material ui version v4.11 has been used, which is different from the demo.
 
+## Demo
+
+The app can be seen running on github pages: <https://pen-y-fan.github.io/step-form/>
+
 ## Starting the app
 
 Docker can be used to provide: node, npm and yarn.
